@@ -1,6 +1,6 @@
 # repl
 
-A library that allows to implement a very basic REPL written in go.
+A library that allows you to implement a very basic REPL written in go.
 
 ## Example Usage
 
